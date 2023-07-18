@@ -67,6 +67,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Statistical Computing Articles](https://medium.com/@ykods/list/statistical-computing-articles-d3e329499135)
+- [JavaScript, React Articles](https://medium.com/@ykods/list/javascript-react-articles-380321172d80)
+- [Java, Spring Boot Articles](https://medium.com/@ykods/list/java-spring-boot-articles-94cfbfcc0863)
+- [Programming Related Articles](https://medium.com/@ykods/list/programming-related-articles-0451a81e4ce7)
 - [Everything you need to know about Stack Data Structure](https://medium.com/@ykods/everything-you-need-to-know-about-stack-data-structure-51c19378ca54)
 - [Everything you need to know about Java Singleton Design Pattern.](https://medium.com/@ykods/everything-you-need-to-know-about-java-singleton-design-pattern-46a9a319d7b9)
 - [Lombok Dependency](https://medium.com/@ykods/lombok-dependency-3506345b075b)
