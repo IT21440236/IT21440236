@@ -31,7 +31,6 @@
 <br/>
 </div
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="170" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 ## My Github Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21440236" alt="it21440236" /></a> </p>
